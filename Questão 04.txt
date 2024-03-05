@@ -1,0 +1,5 @@
+Questão 04 - 
+
+Supongo que eu possa ir verificar as salas com o interruptor desligado, já que não ficou explícito. 
+
+Eu ligo um interruptor somente, espero um tempo, desligo e verifico qual lâmpada está quente, assim a que estiver sei que é do interruptor que liguei, repito o processo mais uma vez e então saberei o interruptor para as três lâmpadas.
